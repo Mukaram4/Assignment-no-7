@@ -58,21 +58,21 @@
 
 // 4: Write a program to check  whether a number is positive , negative or zero.
 
-var Number1 =+ prompt('Enter a number:');
+// var Number1 =+ prompt('Enter a number:');
 
 
-if (Number1 > 0 ) {
-    console.log('your number is positive');
+// if (Number1 > 0 ) {
+//     console.log('your number is positive');
     
-}
-else if (Number1 < 0) {
-    console.log('your number is negative');
+// }
+// else if (Number1 < 0) {
+//     console.log('your number is negative');
 
-}
+// }
 
-else {
+// else {
 
-    console.log('your number is zero');
+//     console.log('your number is zero');
 
-}
+// }
 
